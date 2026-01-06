@@ -11,7 +11,7 @@ The dashboard is structured into **multiple role-based and function-based pages*
 
 * Home Page- Home Page.png
 * Overview Dashboard- Overview Page.png
-* Patient Dashboard- Patient Page.png
+* Patient Dashboard- [Patient Page.png](https://github.com/kumar98rishav-oss/Hospital-Data-Analysis-Management_Dashboard-Power-BI/blob/ccf8ce7ac8f75f2680054938fdb36d437419b0ec/Patient%20Page.png)
 * Doctor Dashboard- Doctor Page.png
 * Hospital Dashboard- Hospital Page.png
 * Finance Dashboard- Finance Page.png
