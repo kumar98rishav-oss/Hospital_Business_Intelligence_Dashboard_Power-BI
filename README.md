@@ -3,7 +3,7 @@ This Hospital Analytics Dashboard is an end-to-end Power BI project designed to 
 
 # Hospital Analytics Dashboard – Power BI Project
 
-![Uploading image.png…]()
+![Image Alt](https://github.com/kumar98rishav-oss/Hospital-Data-Analysis-Management_Dashboard-Power-BI/blob/f2e19460e58ce6ab213963e22b4c5307d3b1308f/Overview%20Page.png)
 
 ## 1. Project Overview
 
