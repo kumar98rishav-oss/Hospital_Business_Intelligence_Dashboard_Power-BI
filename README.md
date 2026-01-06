@@ -9,11 +9,12 @@ This **Hospital Analytics Dashboard** is an end-to-end Power BI project designed
 
 The dashboard is structured into **multiple role-based and function-based pages**:
 
-* Overview Dashboard
-* Patient Dashboard
-* Doctor Dashboard
-* Hospital Dashboard
-* Finance Dashboard
+* Home Page- Home Page.png
+* Overview Dashboard- Overview Page.png
+* Patient Dashboard- Patient Page.png
+* Doctor Dashboard- Doctor Page.png
+* Hospital Dashboard- Hospital Page.png
+* Finance Dashboard- Finance Page.png
 
 The project demonstrates strong skills in **data modeling, DAX measures, Power Query transformations, KPI design, storytelling with data, and UI/UX best practices**.
 
